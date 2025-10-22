@@ -103,15 +103,7 @@ All backups are stored in the /backups folder.
 
 Currency conversions are applied automatically when switching.
 
-📸 Screenshots (Optional)
-(Add screenshots here once available)
-Example:
 
-Dashboard
-
-Analytics charts
-
-Goals tab
 
 📜 License
 Built and licensed to d0wnbad hu, free to use.
